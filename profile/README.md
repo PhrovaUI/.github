@@ -2,15 +2,17 @@
 
 ### All that was lost, is now part of the music
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 0px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; padding-right: 10px;">
-    <h3 style="margin-top: 0;">Refined Android Experience</h3>
-    <p style="margin-bottom: 0;"><b>PhrovaUI</b> is a refined interface layer based on <b>AviumUI</b></p>
-  </div>
-  <div style="flex: 0 0 auto; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/ee98ce1c-8d8a-4216-aa41-f4b42fea7329" alt="PhrovaUI Logo" width="120" style="display: block; margin-left: auto;">
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" style="border: none;">
+      <h3 style="margin-top: 0;">Refined Android Experience</h3>
+      <p><b>PhrovaUI</b> is a refined interface layer based on <b>AviumUI</b></p>
+    </td>
+    <td valign="top" width="130" style="border: none; text-align: right;">
+      <img src="https://github.com/user-attachments/assets/ee98ce1c-8d8a-4216-aa41-f4b42fea7329" alt="PhrovaUI Logo" width="120" style="display: block; margin-left: auto;">
+    </td>
+  </tr>
+</table>
 
 
 ## ✨ Design Principles
