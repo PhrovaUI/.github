@@ -1,8 +1,9 @@
 # PhrovaUI (WIP)
 
-### Once I dreamt that we were dear to each other. I woke to find that we were strangers.
+<img width="1783" height="592" alt="image_555b96dc" src="https://github.com/user-attachments/assets/ed0b4f27-c57f-40f5-af0a-fbc1406c1803" />
 
-**English** | CN
+
+### All that was lost, is new part of the music.
 
 ### Refined Android Experience
 
