@@ -2,19 +2,6 @@
 
 ### All that was lost, is now part of the music
 
-<table>
-  <tr>
-    <td valign="top" style="border: none;">
-      <h3 style="margin-top: 0;">Refined Android Experience</h3>
-      <p><b>PhrovaUI</b> is a refined interface layer based on <b>AviumUI</b></p>
-    </td>
-    <td valign="top" width="130" style="border: none; text-align: right;">
-      <img src="https://github.com/user-attachments/assets/ee98ce1c-8d8a-4216-aa41-f4b42fea7329" alt="PhrovaUI Logo" width="120" style="display: block; margin-left: auto;">
-    </td>
-  </tr>
-</table>
-
-
 ## ✨ Design Principles
 
 - **Essence Preservation**: Maintain Android's core integrity.
