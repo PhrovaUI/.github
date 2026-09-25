@@ -1,21 +1,16 @@
-# PhrovaUI (WIP)
+# # PhrovaUI (WIP)
 
 ### All that was lost, is now part of the music
 
-<!-- <img width="1254" height="1254" alt="PhrovaUI Logo" src="https://github.com/user-attachments/assets/ee98ce1c-8d8a-4216-aa41-f4b42fea7329" />
--->
-
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 0px;">
-  <div style="flex: 1;">
-    <h3>Refined Android Experience</h3>
-    <p><b>PhrovaUI</b> is a refined interface layer based on <b>AviumUI</b></p>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 280px; padding-right: 10px;">
+    <h3 style="margin-top: 0;">Refined Android Experience</h3>
+    <p style="margin-bottom: 0;"><b>PhrovaUI</b> is a refined interface layer based on <b>AviumUI</b></p>
   </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="[YOUR_IMAGE_URL_HERE](https://github.com/user-attachments/assets/ee98ce1c-8d8a-4216-aa41-f4b42fea7329)" alt="PhrovaUI Logo" style="max-height: 150px; width: auto; display: block; margin-left: auto;">
+  <div style="flex: 0 0 auto; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/ee98ce1c-8d8a-4216-aa41-f4b42fea7329" alt="PhrovaUI Logo" style="max-height: 120px; width: auto; display: block; margin-left: auto;">
   </div>
 </div>
-
-**PhrovaUI** is a refined interface layer based on **AviumUI**
 
 ## ✨ Design Principles
 
