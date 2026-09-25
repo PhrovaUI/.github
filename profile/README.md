@@ -1,9 +1,8 @@
 # PhrovaUI (WIP)
 
-<img width="1783" height="592" alt="image_555b96dc" src="https://github.com/user-attachments/assets/ed0b4f27-c57f-40f5-af0a-fbc1406c1803" />
+<img width="1783" height="592" alt="image_70bc1a5d" src="https://github.com/user-attachments/assets/ed86a23e-f284-4f77-ac36-811b24e7ebb4" />
 
-
-### All that was lost, is new part of the music.
+### All that was lost, is now part of the music
 
 ### Refined Android Experience
 
