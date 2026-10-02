@@ -10,6 +10,5 @@
 
 ## 🤝 Community & Links (WIP)
 
-- **Website:** phrova.vercel.app
-- **Telegram Group:** t.me/PhrovaGroup 
-- **Discord Server:** discord.gg/PhrovaUI
+- **Website:** [PhrovaUI](https://phrovaui.vercel.app)
+- **Telegram Group:** [PhrovaGroup](https://t.me/PhrovaGroup) 
